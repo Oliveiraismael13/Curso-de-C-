@@ -5,6 +5,7 @@ Repositório com materiais complementares para o estudo da linguagem C++.
 Este repositório foi criado para organizar os conteúdos e auxiliar no acompanhamento das aulas do curso de C++, desde os conceitos básicos até tópicos mais avançados.
 
 ▶️ Aulas em Vídeo
+
 Você pode acompanhar o curso completo no YouTube através do link abaixo:
 [📺 Curso de C++ – Playlist no YouTube](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40&si=9UzBvNRaHKppQxFA)
 
