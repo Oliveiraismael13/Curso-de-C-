@@ -6,8 +6,7 @@ Este repositório foi criado para organizar os conteúdos e auxiliar no acompanh
 
 ▶️ Aulas em Vídeo
 Você pode acompanhar o curso completo no YouTube através do link abaixo:
-
-📺 Curso de C++ – Playlist no YouTube
+[📺 Curso de C++ – Playlist no YouTube](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40&si=9UzBvNRaHKppQxFA)
 
 📁 Conteúdo
 Exemplos de código
@@ -37,5 +36,3 @@ bash
 Copiar código
 cd Curso_de_C++
 Abra os arquivos no seu editor e acompanhe com as aulas.
-
-https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40&si=9UzBvNRaHKppQxFA
